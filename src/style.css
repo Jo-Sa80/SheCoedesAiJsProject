@@ -1,0 +1,14 @@
+body {
+  background-color: azure;
+}
+
+h1 {
+  size: 30px;
+  text-align: center;
+  color: darkblue;
+}
+footer {
+  size: 15px;
+  color: darkgray;
+  text-align: center;
+}
