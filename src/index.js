@@ -2,7 +2,7 @@ function generateRecipe(event) {
   event.preventDefault();
   let recipe = document.querySelector("#generatedRecipe");
 
-  recipe.innerHTML = `please wait for the answer <span class="blink">...<span>`;
+  recipe.innerHTML = `please wait, while your recepi is created <span class="blink">...<span>`;
 
   let ingredientElement = document.querySelector("#ingredient");
   //let ingredient = ingredientElement.value;
